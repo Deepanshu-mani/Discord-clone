@@ -2,7 +2,7 @@
 
 # Discord Clone
 
-This is a clone of the Discord front page built using HTML, CSS, and JavaScript. This project aims to replicate the design and functionality of the original Discord landing page.
+This is a clone of the Discord front page built using HTML, CSS and Tailwind. This project aims to replicate the design of the original Discord landing page.
 
 ## Live Demo
 
@@ -19,7 +19,6 @@ Check out the live demo of the project: [Discord Clone Live](https://discord-clo
 
 - HTML
 - CSS
-- JavaScript
 - Tailwind CSS
 
 ## Installation
